@@ -34,14 +34,4 @@ Ensure you have the following dependencies installed:
 - [NLTK](https://www.nltk.org/)
 - [WordCloud](https://pypi.org/project/wordcloud/)
 
-You can install them using:
-```bash
-pip install 
-
-### Installation
-
-1. Clone the repository.
-   ```bash
-   git clone https://github.com/fmWaithaka/-Analyzing-Airbnb-Listings-in-Singapore
-   cd -Analyzing-Airbnb-Listings-in-Singapore
 
